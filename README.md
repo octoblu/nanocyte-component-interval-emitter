@@ -2,7 +2,10 @@
 Nanocyte interval emitter
 
 [![Build Status](https://travis-ci.org/octoblu/nanocyte-component-interval-emitter.svg?branch=master)](https://travis-ci.org/octoblu/nanocyte-component-interval-emitter)
-[![Code Climate](https://codeclimate.com/github/octoblu/nanocyte-component-interval-emitter/badges/gpa.svg)](https://codeclimate.com/github/octoblu/nanocyte-component-interval-emitter)
-[![Test Coverage](https://codeclimate.com/github/octoblu/nanocyte-component-interval-emitter/badges/coverage.svg)](https://codeclimate.com/github/octoblu/nanocyte-component-interval-emitter)
-[![npm version](https://badge.fury.io/js/nanocyte-component-interval-emitter.svg)](http://badge.fury.io/js/nanocyte-component-interval-emitter)
-[![Gitter](https://badges.gitter.im/octoblu/help.svg)](https://gitter.im/octoblu/help)
+[![Test Coverage](https://codecov.io/gh/octoblu/nanocyte-component-interval-emitter/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/nanocyte-component-interval-emitter)
+[![Dependency status](http://img.shields.io/david/octoblu/nanocyte-component-interval-emitter.svg?style=flat)](https://david-dm.org/octoblu/nanocyte-component-interval-emitter)
+[![devDependency Status](http://img.shields.io/david/dev/octoblu/nanocyte-component-interval-emitter.svg?style=flat)](https://david-dm.org/octoblu/nanocyte-component-interval-emitter#info=devDependencies)
+[![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
+
+[![NPM](https://nodei.co/npm/nanocyte-component-interval-emitter.svg?style=flat)](https://npmjs.org/package/nanocyte-component-interval-emitter)
+
